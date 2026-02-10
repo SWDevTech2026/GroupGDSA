@@ -1,0 +1,19 @@
+Easy but vurnerable
+
+1. git pull
+2. git checkout -b <branch>
+3. do some work
+	3a. git add
+	3b. git commit -m "message"  
+	repeat
+4. git checkout main
+5. git pull
+6. git merge <branch>
+if conflict, 
+	7. conflict resolution
+	8. git add --all
+	9. git merge --continue
+10. git push main
+11. git branch -d <branch>
+
+6-10 vulnerable in window
