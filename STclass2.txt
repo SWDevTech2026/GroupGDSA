@@ -17,3 +17,4 @@ if conflict,
 11. git branch -d <branch>
 
 6-10 vulnerable in window
+qwheruhaf
